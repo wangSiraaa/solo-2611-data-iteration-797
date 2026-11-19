@@ -1,0 +1,9 @@
+{
+  "revision": "p2",
+  "replace_segment": {
+    "segment_id": "S3",
+    "start": 30,
+    "end": 40,
+    "power": 9
+  }
+}

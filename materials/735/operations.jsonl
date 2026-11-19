@@ -1,0 +1,4 @@
+{"op": "settle", "settlement_id": "B1"}
+{"op": "correct_power", "file": "correction.json"}
+{"op": "settle", "settlement_id": "B2"}
+{"op": "read_settlement", "settlement_id": "B1"}

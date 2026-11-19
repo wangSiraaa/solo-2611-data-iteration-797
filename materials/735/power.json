@@ -1,0 +1,30 @@
+{
+  "trace_id": "P",
+  "revision": "p1",
+  "segments": [
+    {
+      "segment_id": "S0",
+      "start": 0,
+      "end": 10,
+      "power": 2
+    },
+    {
+      "segment_id": "S1",
+      "start": 10,
+      "end": 20,
+      "power": 8
+    },
+    {
+      "segment_id": "S2",
+      "start": 20,
+      "end": 30,
+      "power": 2
+    },
+    {
+      "segment_id": "S3",
+      "start": 30,
+      "end": 40,
+      "power": 2
+    }
+  ]
+}

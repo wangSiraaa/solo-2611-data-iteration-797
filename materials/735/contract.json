@@ -1,0 +1,11 @@
+{
+  "contract_id": "K",
+  "revision": "k1",
+  "period": [
+    0,
+    40
+  ],
+  "window_length": 15,
+  "included_demand": 6,
+  "price_per_excess_unit": 3
+}

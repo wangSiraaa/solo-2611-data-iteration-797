@@ -1,0 +1,23 @@
+{
+  "schema": "demand-bill/v1",
+  "settlement_id": "FORMAT_ONLY",
+  "coverage": "complete",
+  "window": [
+    {
+      "n": 0,
+      "d": 1
+    },
+    {
+      "n": 1,
+      "d": 1
+    }
+  ],
+  "demand": {
+    "n": 1,
+    "d": 2
+  },
+  "charge": {
+    "n": 0,
+    "d": 1
+  }
+}
